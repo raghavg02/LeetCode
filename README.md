@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/raghavg02/LeetCode/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/raghavg02/LeetCode/tree/master/0009-palindrome-number) |
 ## Hash Table
 |  |
 | ------- |
