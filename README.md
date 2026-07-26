@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0007-reverse-integer](https://github.com/raghavg02/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/raghavg02/LeetCode/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/raghavg02/LeetCode/tree/master/0050-powx-n) |
 ## Hash Table
 |  |
 | ------- |
@@ -55,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/raghavg02/LeetCode/tree/master/0042-trapping-rain-water) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/raghavg02/LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
