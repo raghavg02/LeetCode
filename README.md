@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0033-search-in-rotated-sorted-array](https://github.com/raghavg02/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/raghavg02/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/raghavg02/LeetCode/tree/master/0053-maximum-subarray) |
+| [1672-richest-customer-wealth](https://github.com/raghavg02/LeetCode/tree/master/1672-richest-customer-wealth) |
 ## Binary Search
 |  |
 | ------- |
@@ -63,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/raghavg02/LeetCode/tree/master/0050-powx-n) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/raghavg02/LeetCode/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
