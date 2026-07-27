@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1539-kth-missing-positive-number](https://github.com/raghavg02/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1672-richest-customer-wealth](https://github.com/raghavg02/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/raghavg02/LeetCode/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/raghavg02/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -100,4 +101,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/raghavg02/LeetCode/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/raghavg02/LeetCode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
