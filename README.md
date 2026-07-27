@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1346-check-if-n-and-its-double-exist](https://github.com/raghavg02/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1539-kth-missing-positive-number](https://github.com/raghavg02/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1672-richest-customer-wealth](https://github.com/raghavg02/LeetCode/tree/master/1672-richest-customer-wealth) |
+| [1920-build-array-from-permutation](https://github.com/raghavg02/LeetCode/tree/master/1920-build-array-from-permutation) |
 ## Binary Search
 |  |
 | ------- |
@@ -95,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0349-intersection-of-two-arrays](https://github.com/raghavg02/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/raghavg02/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/raghavg02/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/raghavg02/LeetCode/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
