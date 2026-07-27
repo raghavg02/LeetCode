@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/raghavg02/LeetCode/tree/master/0053-maximum-subarray) |
 | [0217-contains-duplicate](https://github.com/raghavg02/LeetCode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/raghavg02/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/raghavg02/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/raghavg02/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1539-kth-missing-positive-number](https://github.com/raghavg02/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1672-richest-customer-wealth](https://github.com/raghavg02/LeetCode/tree/master/1672-richest-customer-wealth) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0033-search-in-rotated-sorted-array](https://github.com/raghavg02/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/raghavg02/LeetCode/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/raghavg02/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/raghavg02/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/raghavg02/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1539-kth-missing-positive-number](https://github.com/raghavg02/LeetCode/tree/master/1539-kth-missing-positive-number) |
 ## Divide and Conquer
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/raghavg02/LeetCode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/raghavg02/LeetCode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/raghavg02/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/raghavg02/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/raghavg02/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Two Pointers
 |  |
@@ -52,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/raghavg02/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/raghavg02/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0349-intersection-of-two-arrays](https://github.com/raghavg02/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/raghavg02/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/raghavg02/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## String
 |  |
@@ -87,5 +91,6 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0217-contains-duplicate](https://github.com/raghavg02/LeetCode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/raghavg02/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/raghavg02/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/raghavg02/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 <!---LeetCode Topics End-->
