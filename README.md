@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1920-build-array-from-permutation](https://github.com/raghavg02/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/raghavg02/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/raghavg02/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/raghavg02/LeetCode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Binary Search
 |  |
 | ------- |
