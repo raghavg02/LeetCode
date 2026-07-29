@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1920-build-array-from-permutation](https://github.com/raghavg02/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/raghavg02/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/raghavg02/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2965-find-missing-and-repeated-values](https://github.com/raghavg02/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/raghavg02/LeetCode/tree/master/3940-limit-occurrences-in-sorted-array) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/raghavg02/LeetCode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Binary Search
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0050-powx-n](https://github.com/raghavg02/LeetCode/tree/master/0050-powx-n) |
 | [2235-add-two-integers](https://github.com/raghavg02/LeetCode/tree/master/2235-add-two-integers) |
 | [2652-sum-multiples](https://github.com/raghavg02/LeetCode/tree/master/2652-sum-multiples) |
+| [2965-find-missing-and-repeated-values](https://github.com/raghavg02/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0349-intersection-of-two-arrays](https://github.com/raghavg02/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/raghavg02/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/raghavg02/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2965-find-missing-and-repeated-values](https://github.com/raghavg02/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3941-password-strength](https://github.com/raghavg02/LeetCode/tree/master/3941-password-strength) |
 ## Two Pointers
 |  |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/raghavg02/LeetCode/tree/master/1672-richest-customer-wealth) |
+| [2965-find-missing-and-repeated-values](https://github.com/raghavg02/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Sorting
 |  |
 | ------- |
