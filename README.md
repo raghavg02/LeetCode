@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0349-intersection-of-two-arrays](https://github.com/raghavg02/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/raghavg02/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/raghavg02/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [3941-password-strength](https://github.com/raghavg02/LeetCode/tree/master/3941-password-strength) |
 ## Two Pointers
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0125-valid-palindrome](https://github.com/raghavg02/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/raghavg02/LeetCode/tree/master/0344-reverse-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/raghavg02/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3941-password-strength](https://github.com/raghavg02/LeetCode/tree/master/3941-password-strength) |
 ## String Matching
 |  |
 | ------- |
