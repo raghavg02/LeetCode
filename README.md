@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0035-search-insert-position](https://github.com/raghavg02/LeetCode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/raghavg02/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/raghavg02/LeetCode/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/raghavg02/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/raghavg02/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/raghavg02/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/raghavg02/LeetCode/tree/master/0169-majority-element) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0007-reverse-integer](https://github.com/raghavg02/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/raghavg02/LeetCode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/raghavg02/LeetCode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/raghavg02/LeetCode/tree/master/0066-plus-one) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/raghavg02/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2235-add-two-integers](https://github.com/raghavg02/LeetCode/tree/master/2235-add-two-integers) |
 | [2652-sum-multiples](https://github.com/raghavg02/LeetCode/tree/master/2652-sum-multiples) |
