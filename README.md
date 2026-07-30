@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0349-intersection-of-two-arrays](https://github.com/raghavg02/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/raghavg02/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/raghavg02/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/raghavg02/LeetCode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/raghavg02/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3941-password-strength](https://github.com/raghavg02/LeetCode/tree/master/3941-password-strength) |
 ## Two Pointers
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/raghavg02/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/raghavg02/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/raghavg02/LeetCode/tree/master/0344-reverse-string) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/raghavg02/LeetCode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/raghavg02/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3941-password-strength](https://github.com/raghavg02/LeetCode/tree/master/3941-password-strength) |
 ## String Matching
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/raghavg02/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/raghavg02/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/raghavg02/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/raghavg02/LeetCode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/raghavg02/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/raghavg02/LeetCode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 ## Counting
 |  |
 | ------- |
@@ -144,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/raghavg02/LeetCode/tree/master/0175-combine-two-tables) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/raghavg02/LeetCode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 <!---LeetCode Topics End-->
