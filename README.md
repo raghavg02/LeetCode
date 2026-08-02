@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/raghavg02/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2965-find-missing-and-repeated-values](https://github.com/raghavg02/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/raghavg02/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3668-restore-finishing-order](https://github.com/raghavg02/LeetCode/tree/master/3668-restore-finishing-order) |
 | [3925-concatenate-array-with-reverse](https://github.com/raghavg02/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/raghavg02/LeetCode/tree/master/3940-limit-occurrences-in-sorted-array) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/raghavg02/LeetCode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1346-check-if-n-and-its-double-exist](https://github.com/raghavg02/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/raghavg02/LeetCode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/raghavg02/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
+| [3668-restore-finishing-order](https://github.com/raghavg02/LeetCode/tree/master/3668-restore-finishing-order) |
 | [3941-password-strength](https://github.com/raghavg02/LeetCode/tree/master/3941-password-strength) |
 ## Two Pointers
 |  |
