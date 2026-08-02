@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/raghavg02/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/raghavg02/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2965-find-missing-and-repeated-values](https://github.com/raghavg02/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/raghavg02/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/raghavg02/LeetCode/tree/master/3940-limit-occurrences-in-sorted-array) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/raghavg02/LeetCode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Binary Search
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2235-add-two-integers](https://github.com/raghavg02/LeetCode/tree/master/2235-add-two-integers) |
 | [2652-sum-multiples](https://github.com/raghavg02/LeetCode/tree/master/2652-sum-multiples) |
 | [2965-find-missing-and-repeated-values](https://github.com/raghavg02/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/raghavg02/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
